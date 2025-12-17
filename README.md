@@ -21,7 +21,8 @@
 ## 📸 Ekran Görüntüleri
 
 ### Hero Section
-![Hero Section](/screenshots/Hero.png)
+![Hero Section]<img width="1920" height="1080" alt="Hero" src="https://github.com/user-attachments/assets/b2fc8f5d-f8b9-4e40-a479-5a4d29b20f08" />
+
 
 ### Features
 ![Features](/screenshots/Features.png)
